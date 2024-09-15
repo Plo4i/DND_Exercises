@@ -1,0 +1,14 @@
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/obj/Debug/net8.0/Session01.Exercise07.GeneratedMSBuildEditorConfig.editorconfig
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/obj/Debug/net8.0/Session01.Exercise07.AssemblyInfoInputs.cache
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/obj/Debug/net8.0/Session01.Exercise07.AssemblyInfo.cs
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/obj/Debug/net8.0/Session01.Exercise07.csproj.CoreCompileInputs.cache
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/bin/Debug/net8.0/Session01.Exercise07
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/bin/Debug/net8.0/Session01.Exercise07.deps.json
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/bin/Debug/net8.0/Session01.Exercise07.runtimeconfig.json
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/bin/Debug/net8.0/Session01.Exercise07.dll
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/bin/Debug/net8.0/Session01.Exercise07.pdb
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/obj/Debug/net8.0/Session01.Exercise07.dll
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/obj/Debug/net8.0/refint/Session01.Exercise07.dll
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/obj/Debug/net8.0/Session01.Exercise07.pdb
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/obj/Debug/net8.0/Session01.Exercise07.genruntimeconfig.cache
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/obj/Debug/net8.0/ref/Session01.Exercise07.dll
