@@ -6,7 +6,7 @@ Welcome to the .NET exercises repository! This project contains a series of exer
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-username/dotnet-exercises.git
+git clone https://github.com/Plo4i/DND_Exercises.git
 cd dotnet-exercises
 ```
 ### 2. Restore Dependencies:
