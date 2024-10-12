@@ -12,3 +12,4 @@
 /home/dimitar/Projects/DND_Exercises/Session01.Exercise07/obj/Debug/net8.0/Session01.Exercise07.pdb
 /home/dimitar/Projects/DND_Exercises/Session01.Exercise07/obj/Debug/net8.0/Session01.Exercise07.genruntimeconfig.cache
 /home/dimitar/Projects/DND_Exercises/Session01.Exercise07/obj/Debug/net8.0/ref/Session01.Exercise07.dll
+/home/dimitar/Projects/DND_Exercises/Session01.Exercise07/obj/Debug/net8.0/Session01.Exercise07.sourcelink.json
